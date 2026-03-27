@@ -2,7 +2,7 @@
 This lab demonstrates Kubernetes resource deployment and analyzes the RabbitMQ configuration issue in the Algonquin Pet Store application.
 
 ## Demo Video
-YouTube Link: [link here]
+YouTube Link: https://youtu.be/grWtF4-BUQc
 
 ## RabbitMQ configuration issues
 - Is RabbitMQ stateless or stateful?
